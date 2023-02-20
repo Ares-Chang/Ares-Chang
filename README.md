@@ -6,3 +6,7 @@
 > I am a frontEnd web developer from China.
 
 🔗 https://areschang.top/
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@:Ares-Chang?theme=gelbooru)
