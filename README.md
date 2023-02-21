@@ -15,3 +15,9 @@ This is my notes website 🔗 https://areschang.top/, welcome to visit.
 ## Magic Number
 
 ![Visited By](https://count.getloli.com/get/@:Ares-Chang?theme=gelbooru)
+
+## This README relies on the following repository
+
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your READMEs!
+- [skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your GitHub or resumé with ease!
+- [Moe-counter](https://github.com/journey-ad/Moe-counter) - Multiple styles of cute counter optional!
