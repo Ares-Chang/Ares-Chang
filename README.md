@@ -6,7 +6,7 @@
 
 I'm Ares-Chang, A front-end developer from China who loves new technology and likes to fiddle with various gadgets.
 
-🔗 https://areschang.top/
+This is my notes website 🔗 https://areschang.top/, welcome to visit.
 
 ## Skills
 
