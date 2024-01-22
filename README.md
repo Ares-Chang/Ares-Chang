@@ -8,6 +8,8 @@ I'm Ares-Chang, A front-end developer from China who loves new technology and li
 
 This is my notes website 🔗 https://areschang.top/, welcome to visit.
 
+🌟 **You can type `npx areschang` in the terminal to learn more.**
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,solidjs,git,vite,vim,vscode,netlify)](https://skillicons.dev)
